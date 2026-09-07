@@ -1,1 +1,1 @@
-# license oka
+# license a ok
