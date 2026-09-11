@@ -1,1 +1,1 @@
-# license aok
+# license ok
